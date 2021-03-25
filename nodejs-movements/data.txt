@@ -1,0 +1,151 @@
+{
+    "_id" : ObjectId("6047c663beb9e869a4a464f3"),
+    "type" : "outflow",
+    "transaction" : "credit card",
+    "description" : "Compras Gerais",
+    "value" : 944.3,
+    "expire_date" : "2021-03-10",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-09T19:02:59.463Z"),
+    "updated_at" : ISODate("2021-03-09T19:02:59.463Z")
+}
+
+
+{
+    "_id" : ObjectId("6047c6a3beb9e869a4a464f4"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Empréstimo Nubank 1",
+    "value" : 429.1,
+    "expire_date" : "2021-03-10",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-09T19:04:03.172Z"),
+    "updated_at" : ISODate("2021-03-09T19:04:03.172Z")
+}
+
+
+{
+    "_id" : ObjectId("6047f10ebeb9e869a4a464f5"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Claro Celular",
+    "value" : 54.3,
+    "expire_date" : "2021-03-20",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-09T19:04:03.172Z"),
+    "updated_at" : ISODate("2021-03-09T22:05:02.110Z")
+}
+
+
+{
+    "_id" : ObjectId("6047f128beb9e869a4a464f6"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Claro Celular",
+    "value" : 54.3,
+    "expire_date" : "2021-02-20",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-09T19:04:03.172Z"),
+    "updated_at" : ISODate("2021-03-09T22:05:28.723Z")
+}
+
+
+{
+    "_id" : ObjectId("6047f188beb9e869a4a464f7"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Conta de Luz",
+    "value" : 101.01,
+    "expire_date" : "2021-03-10",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-09T19:04:03.172Z"),
+    "updated_at" : ISODate("2021-03-09T22:07:04.216Z")
+}
+
+
+{
+    "_id" : ObjectId("6047f195beb9e869a4a464f8"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Conta de Agua",
+    "value" : 57.86,
+    "expire_date" : "2021-03-10",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-09T00:00:00.000Z"),
+    "updated_at" : ISODate("2021-03-09T22:07:17.729Z")
+}
+
+
+{
+    "_id" : ObjectId("6047f1c1beb9e869a4a464f9"),
+    "type" : "inflow",
+    "transaction" : "account credit",
+    "description" : "Salário",
+    "value" : 2281.75,
+    "expire_date" : "2021-03-10",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-09T00:00:00.000Z"),
+    "updated_at" : ISODate("2021-03-09T22:08:01.219Z")
+}
+
+
+{
+    "_id" : ObjectId("604acffe81a3e97701dc025f"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Combustível Carro",
+    "value" : 50,
+    "expire_date" : "2021-03-11",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-12T02:20:46.593Z"),
+    "updated_at" : ISODate("2021-03-12T02:20:46.593Z")
+}
+
+
+{
+    "_id" : ObjectId("604b731c7ac25cc7194db960"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Pet - Ração",
+    "value" : 203.99,
+    "expire_date" : "2021-03-12",
+    "paid_account" : "false",
+    "created_at" : ISODate("2021-03-12T13:56:44.354Z"),
+    "updated_at" : ISODate("2021-03-12T13:56:44.354Z")
+}
+
+{
+    "_id" : ObjectId("604bd6a7be1a377e9f8a2c5e"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Outros - Almoço",
+    "value" : 26.87,
+    "expire_date" : "2021-03-12",
+    "paid_account" : "false",
+    "created_at" : ISODate("2021-03-12T21:01:27.619Z"),
+    "updated_at" : ISODate("2021-03-12T21:01:27.619Z")
+}
+
+{
+    "_id" : ObjectId("604bd6ddbe1a377e9f8a2c5f"),
+    "type" : "outflow",
+    "transaction" : "account debit",
+    "description" : "Outros - Comercio varejo",
+    "value" : 8.99,
+    "expire_date" : "2021-03-12",
+    "paid_account" : "false",
+    "created_at" : ISODate("2021-03-12T21:02:21.595Z"),
+    "updated_at" : ISODate("2021-03-12T21:02:21.595Z")
+}
+
+{
+    "_id" : ObjectId("604cc04b979798c9b1201876"),
+    "type" : "outflow",
+    "transaction" : "Débito em conta",
+    "description" : "Outros - Comercio e varejo",
+    "value" : 32.63,
+    "expire_date" : "2021-03-12",
+    "paid_account" : "true",
+    "created_at" : ISODate("2021-03-13T13:38:19.409Z"),
+    "updated_at" : ISODate("2021-03-13T13:38:19.409Z")
+}

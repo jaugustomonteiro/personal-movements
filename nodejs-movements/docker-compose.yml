@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+
+  # nodemovement:
+  #   build: .
+  #   image:
+  #     'jaml/dockernode'
+  #   container_name:
+  #     nodemovement
+  #   ports:
+  #     - '3333:3333'
+  #   networks:
+  #    - lan_movement
+
+  mongodb:
+    image:
+      mongo
+    container_name:
+      mongodb
+    ports:
+      - '27017:27017'
+    networks:
+     - lan_movement
+
+networks:
+    lan_movement:
